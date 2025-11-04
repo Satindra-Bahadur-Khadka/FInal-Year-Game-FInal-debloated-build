@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sangi\\FYP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\statemachine\\playoneshotbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playoneshotbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|c:\\users\\sangi\\fyp\\assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\touchingdirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\touchingdirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\parallaxeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallaxeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\animationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\CreditScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CreditScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\FlyingEye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FlyingEye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\projectilelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectilelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\statemachine\\setboolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\setboolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|C:\\Users\\sangi\\FYP\\assets\\scripts\\healthtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C363F3F-15D1-DCA8-F7C9-3AF0D0F4CB5F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\MusicPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MusicPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\PlayOneShotBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayOneShotBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\Scripts\\SetFloatBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SetFloatBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\FinishLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FinishLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangi\\FYP\\Assets\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAADwv2MAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:19:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:15:04.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:15:18.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:02:50.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:23:36.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetectionZone.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectionZone.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectionZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:17.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Knight.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Knight.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:21:42.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\FinishLine.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\FinishLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:44:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:23:18.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\PauseMenu.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:42:21.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayOneShotBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:49:49.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TouchingDirections.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\TouchingDirections.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TouchingDirections.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\TouchingDirections.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TouchingDirections.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:49:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParallaxEffect.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\ParallaxEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallaxEffect.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\ParallaxEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParallaxEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:50:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthPickup.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\HealthPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthPickup.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\HealthPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:21:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimationStrings.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\AnimationStrings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationStrings.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\AnimationStrings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationStrings.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:15:27.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlyingEye.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\FlyingEye.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlyingEye.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\FlyingEye.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlyingEye.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwF4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:42:51.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FlyingEye.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\FlyingEye.cs",
+              "RelativeDocumentMoniker": "Assets\\FlyingEye.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\FlyingEye.cs",
+              "RelativeToolTip": "Assets\\FlyingEye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:52:25.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreditScript.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\CreditScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CreditScript.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\CreditScript.cs",
+              "RelativeToolTip": "Assets\\CreditScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:58:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectileLauncher.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\ProjectileLauncher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileLauncher.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\ProjectileLauncher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileLauncher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:23:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:47:13.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:07:05.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\HealthBar.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:17:09.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayOneShotBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\PlayOneShotBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayOneShotBehaviour.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\PlayOneShotBehaviour.cs",
+              "RelativeToolTip": "Assets\\PlayOneShotBehaviour.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:25:32.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SetBoolBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvx8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:34:51.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HealthText.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\HealthText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthText.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\HealthText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthText.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:47:50.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SetFloatBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\SetFloatBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SetFloatBehaviour.cs",
+              "ToolTip": "C:\\Users\\sangi\\FYP\\Assets\\Scripts\\SetFloatBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SetFloatBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:15:27.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
